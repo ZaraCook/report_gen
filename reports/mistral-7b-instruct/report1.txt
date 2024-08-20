@@ -1,0 +1,19 @@
+Scan ID: 000b9ee7-9f19-412d-bf22-360cd7c2f325_raw.fif
+Date: 2024-08-07
+
+Annotations:
+Onset: 19.997999, Description: Eyes Closed
+Onset: 21.0527, Description: Drowsy
+Onset: 84.892601, Description: Montage:TRANSVERSE BIPOLAR
+Onset: 84.892601, Description: Montage:TRANSVERSE BIPOLAR
+Onset: 119.664001, Description: Artifact
+Onset: 259.982391, Description: Eyes Closed
+Onset: 260.968811, Description: Head Center
+Onset: 261.751892, Description: Drowsy
+Onset: 285.648407, Description: ARTIFACT
+
+Description:
+At the onset of 19.997999 seconds, the subject's eyes were closed, as indicated by the EEG annotation. By 21.0527 seconds, the subject exhibited signs of drowsiness. The EEG recording was then switched to a transverse bipolar montage at 84.892601 seconds, which continued until 119.664001 seconds, where an artifact was detected. The subject's eyes were closed again at 259.982391 seconds, followed by a shift to the head center at 260.968811 seconds. Drowsiness was observed once more at 261.751892 seconds. At 285.
+
+Impression:
+Based on the provided EEG annotations and description, the subject exhibited signs of drowsiness at 21.0527 seconds and 261.751892 seconds. However, there is no clear evidence of seizure activity in the given data. The EEG recording appears to be abnormal due to the presence of drowsiness, but a definitive diagnosis of seizure activity cannot be made based on the information provided.

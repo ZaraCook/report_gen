@@ -1,0 +1,20 @@
+Scan ID: 00a5e564-2997-4907-8986-48e70b09b09f_raw.fif
+Date: 2024-08-07
+
+Annotations:
+Onset: 0.8477, Description: Post HV 90 Sec
+Onset: 3.8691, Description: Bookmark
+Onset: 26.056601, Description: SWALLOW
+Onset: 55.0723, Description: SWALLOW
+Onset: 191.234406, Description: Swallow
+Onset: 238.642593, Description: Movement
+Onset: 325.384796, Description: Movement
+Onset: 340.890594, Description: Montage:TRANSVERSE BIPOLAR
+Onset: 342.865204, Description: Eyes Closed
+Onset: 345.386688, Description: Awake
+
+Description:
+At the 0.8477-second mark post-hypoxic ventilatory response (HV 90), there is a notable change in the EEG pattern. Around the 3.8691-second mark, a bookmark is placed for future reference. Subsequently, at 26.056601, 55.0723, 191.234406, and 238.642593 seconds, swallows are detected, indicating the patient's ability to maintain an airway. At 325.384796 and 340.890594 seconds, movements are observed, suggesting potential patient discomfort or restlessness. At 342.
+
+Impression:
+Based on the provided annotations and description, it appears that the EEG shows a change in pattern at the 0.8477-second mark post-HV 90, which may indicate a response to the hypoxic event. However, there are no clear signs of seizure activity, as no epileptiform discharges are mentioned. The presence of swallows at several points suggests that the patient is able to maintain an airway. The movements observed at 325.384796 and 340.890594 seconds may indicate patient discomfort or restlessness, but further analysis would be needed to confirm this. Overall, the EEG appears to be abnormal due to the noted changes in pattern and the presence of movements, but a definitive diagnosis would require a comprehensive evaluation of the entire EEG recording.

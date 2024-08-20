@@ -1,0 +1,53 @@
+Scan ID: 00b0574e-dc9e-4b07-983f-b956bf81ed81_raw.fif
+Date: 2024-08-02
+
+Annotations:
+Onset: 12.0468, Description: Movement
+Onset: 13.6542, Description: Swallow
+Onset: 35.402199, Description: Bookmark
+Onset: 48.156101, Description: Swallow
+Onset: 52.568298, Description: Movement
+Onset: 62.499901, Description: Swallow
+Onset: 65.714699, Description: Swallow
+Onset: 84.9179, Description: Swallow
+Onset: 108.996002, Description: Swallow
+Onset: 117.441299, Description: Movement
+Onset: 121.6894, Description: Movement
+Onset: 140.587799, Description: Swallow
+Onset: 142.3358, Description: Movement
+Onset: 157.558502, Description: Swallow
+Onset: 164.240097, Description: Movement
+Onset: 172.261597, Description: Movement
+Onset: 185.363205, Description: Montage:TRANSVERSE BIPOLAR
+Onset: 187.292892, Description: Eyes Closed
+Onset: 188.365097, Description: Head Center
+Onset: 190.240097, Description: Awake
+Onset: 192.218704, Description: Sens 7
+Onset: 203.677597, Description: Swallow
+Onset: 205.968704, Description: Swallow
+Onset: 207.5448, Description: Swallow
+Onset: 213.4823, Description: Movement
+Onset: 232.642502, Description: Movement
+Onset: 243.863205, Description: Swallow
+Onset: 269.337799, Description: Swallow
+Onset: 288.861206, Description: Head Center
+Onset: 295.246002, Description: Swallow
+Onset: 313.593689, Description: Swallow
+Onset: 315.759705, Description: Movement
+Onset: 324.523285, Description: Montage:TEMPORAL BIPOLAR
+Onset: 327.589691, Description: Eyes Closed
+Onset: 327.8573, Description: Head Center
+Onset: 329.583893, Description: Awake
+Onset: 330.953003, Description: sens 7
+Onset: 349.703003, Description: Movement
+Onset: 354.242096, Description: Swallow
+
+Description:
+Here is a detailed and cohesive paragraph summarizing the EEG annotations:
+
+This EEG recording captures various physiological and behavioral events, including movements, swallows, and changes in the subject's state. The recording begins with a movement event at 12.0468 seconds, followed by a swallow event at 13.6542 seconds. A bookmark event is noted at 35.402199 seconds, which may indicate a pause or interruption in the recording. Swallow events are frequent throughout the recording, occurring at 48.156101, 52.568298, 62.499901, 65.714699, 84.9179, 108.996002, 140.587799, 157.558502, 164.240097, 172.261597, 203.677597, 205.968704, 207.5448, 243.863205, 269.337799, 295.
+
+Impression:
+There is no seizure activity present in this EEG recording based on the provided annotations and description. The recording appears to be normal, capturing various physiological and behavioral events such as movements, swallows, and changes in the subject's state, without any indication of abnormal electrical activity. The frequent swallow events and movement events suggest a normal physiological response, and the bookmark event at 35.402199 seconds may indicate a pause or interruption in the recording, but does not suggest any abnormality. Overall, the EEG appears to be within normal limits based on the provided information. 
+
+Note:

@@ -1,0 +1,22 @@
+Scan ID: 00a5e564-2997-4907-8986-48e70b09b09f_raw.fif
+Date: 2024-08-07
+
+Annotations:
+Onset: 0.8477, Description: Post HV 90 Sec
+Onset: 3.8691, Description: Bookmark
+Onset: 26.056601, Description: SWALLOW
+Onset: 55.0723, Description: SWALLOW
+Onset: 191.234406, Description: Swallow
+Onset: 238.642593, Description: Movement
+Onset: 325.384796, Description: Movement
+Onset: 340.890594, Description: Montage:TRANSVERSE BIPOLAR
+Onset: 342.865204, Description: Eyes Closed
+Onset: 345.386688, Description: Awake
+
+Description:
+The EEG recording exhibits several notable events.  At 0.8477 seconds, an event labeled "Post HV 90 Sec" occurs, suggesting a potential physiological response or artifact related to a high-voltage (HV) stimulus administered 90 seconds prior.  A "Bookmark" annotation at 3.8691 seconds may indicate a specific point of interest for further analysis.  Multiple "SWALLOW" events are observed at 26.056601, 55.0723, and 191.234406 seconds, reflecting normal physiological activity.  "Movement" annotations at 238.642593 and 325.384796 seconds suggest changes in posture or muscle activity.  Finally, at 340.
+
+Impression:
+**Medical Impression:**
+
+Based on the provided annotations, this EEG appears normal. There are no indications of seizure activity, and the observed events are consistent with expected physiological responses and movements.

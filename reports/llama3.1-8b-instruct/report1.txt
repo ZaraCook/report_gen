@@ -1,0 +1,21 @@
+Scan ID: 000b9ee7-9f19-412d-bf22-360cd7c2f325_raw.fif
+Date: 2024-08-02
+
+Annotations:
+Onset: 19.997999, Description: Eyes Closed
+Onset: 21.0527, Description: Drowsy
+Onset: 84.892601, Description: Montage:TRANSVERSE BIPOLAR
+Onset: 84.892601, Description: Montage:TRANSVERSE BIPOLAR
+Onset: 119.664001, Description: Artifact
+Onset: 259.982391, Description: Eyes Closed
+Onset: 260.968811, Description: Head Center
+Onset: 261.751892, Description: Drowsy
+Onset: 285.648407, Description: ARTIFACT
+
+Description:
+The EEG recording begins with the subject's eyes closed at 19.997999 seconds. Shortly after, the subject becomes drowsy at 21.0527 seconds, indicating a transition from a state of wakefulness to a state of reduced consciousness. The EEG montage is then changed to a transverse bipolar configuration at 84.892601 seconds, which is repeated. However, at 119.664001 seconds, an artifact is detected, which may be due to electrical interference or other external factors affecting the EEG signal. The subject's eyes are closed again at 259.982391 seconds, and the head center is detected at 260.968811 seconds. Finally, the subject becomes drowsy again at 261.751892 seconds, and an artifact is detected at 285.648407 seconds.
+
+Impression:
+The medical impression is that this EEG is abnormal due to the presence of drowsy states, which indicate a transition from a state of wakefulness to a state of reduced consciousness. There is no seizure activity present based on the provided annotations and description. The EEG appears to be within normal limits in terms of seizure activity, but the drowsy states suggest an abnormality in the subject's level of consciousness. 
+
+Note: The medical impression is based solely on the provided annotations and description, and does not take into account any additional information that may be present in the EEG recording itself.
